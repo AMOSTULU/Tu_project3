@@ -1,0 +1,32 @@
+/* src/components/Navbar.css */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: #333;
+    padding: 10px;
+    color: white;
+  }
+  
+  .nav-item {
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+  }
+  
+  .user-info span {
+    margin-right: 15px;
+    font-weight: bold;
+  }
+  
+  .nav-button {
+    background-color: #007bff;
+    border: none;
+    padding: 5px 10px;
+    margin-left: 5px;
+    cursor: pointer;
+    border-radius: 5px;
+    color: white;
+  }
+  
+  /* 更多样式... */
+  
