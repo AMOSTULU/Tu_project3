@@ -10,7 +10,6 @@ function ViewTweets() {
     const [tweets, setTweets] = useState([]);
     const [filteredTweets, setFilteredTweets] = useState([]);
     const [selectedUser, setSelectedUser] = useState(null);
-
     const [searchTerm, setSearchTerm] = useState('');
 
     const handleSearchChange = (event) => {
@@ -182,7 +181,7 @@ function ViewTweets() {
 
             )}
             <ListGroup>
-                {filteredTweets.map(tweet => (
+                {Array.isArray(filteredTweets)&&filteredTweets.map(tweet => (
                     <Card key={tweet._id} className="mb-2">
                         <Card.Header className="d-flex justify-content-between align-items-center">
                             <span onClick={() => filterTweetsByUser(tweet.username)}>
