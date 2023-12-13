@@ -35,6 +35,8 @@ Technical Environment: Assumed a standard web development environment and a Mong
 User Authentication: Assumed that basic authentication and security measures would suffice for the scope of this application.
 
 How long did this assignment take to complete?
-
 2 weeks. 
-![image](https://github.com/AMOSTULU/Tu_project3/assets/113565778/91da3a7b-1a47-4496-aeab-5f32408a5c1c)
+
+<img width="484" alt="Screenshot 2023-12-12 at 6 43 41 PM" src="https://github.com/AMOSTULU/Tu_project3/assets/113565778/b6b354f2-fb93-44ad-972a-4356995a7a7a">
+
+<img width="468" alt="Screenshot 2023-12-12 at 6 43 55 PM" src="https://github.com/AMOSTULU/Tu_project3/assets/113565778/984c91a6-a460-4318-8a31-844f63448c15">
